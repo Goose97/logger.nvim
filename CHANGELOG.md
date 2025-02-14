@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.3.0](https://github.com/Goose97/timber.nvim/compare/v2.2.0...v2.3.0) (2025-02-14)
+
+
+### Features
+
+* **actions:** add Astro language support ([e6fd925](https://github.com/Goose97/timber.nvim/commit/e6fd9251787a4ca8d3ef90143dfc6216cd76cfc4))
+
+
+### Bug Fixes
+
+* **actions:** update cpp syntax ([9874538](https://github.com/Goose97/timber.nvim/commit/98745380c27b8fffbc7861b7a7d3fce325d8139d))
+
 ## [2.2.0](https://github.com/Goose97/timber.nvim/compare/v2.1.0...v2.2.0) (2025-01-15)
 
 
